@@ -30,7 +30,7 @@ from pathlib import Path
 
 ## Usage
 
-To run the financial tool program, simply clone the repository,  establish API keys for alpaca, and go through the written steps in the financial_tools.ipynb file.
+To run the financial tool program, simply clone the repository,  and go through the written steps .ipynb file with relevant .cvs datafile
 
 ---
 
